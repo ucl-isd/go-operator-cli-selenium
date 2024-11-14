@@ -13,7 +13,7 @@ import (
 
 const (
 	seleniumPath      = "./selenium-server-standalone.jar"
-	chromeDriverPath  = "./chromedriver"
+	chromeDriverPath  = "././chromedriver"
 	port              = 8080
 	cookieFilePath    = "cookies.json"
 	talentlinkURL     = "https://emea5.lumessetalentlink.com/"

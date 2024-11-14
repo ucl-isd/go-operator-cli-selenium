@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/ucl-isd/go_operator_cli_selenium/operator"
+	"github.com/ucl-isd/go-operator-cli-selenium/operator"
 )
 
 func main() {
